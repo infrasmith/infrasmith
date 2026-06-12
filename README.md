@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ashutosh-bhardwaj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
   <a href="https://www.credeau.com/"><img src="https://img.shields.io/badge/Credeau%20Solutions-1F2937?style=flat-square&logo=civicrm&logoColor=00D4AA" alt="Credeau Solutions" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
@@ -74,6 +75,7 @@ I treat availability as a design constraint, not a hope. When I architect a syst
 I'm always open to conversations about **high availability**, **zero-downtime delivery**, and **infrastructure that scales predictably**. Whether it's a problem to solve or ideas to exchange, reach out.
 
 <p align="center">
+  <a href="https://ashutosh-bhardwaj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-1F2937?style=flat-square&logo=whatsapp&logoColor=25D366" alt="Phone" /></a>
