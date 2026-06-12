@@ -1,7 +1,7 @@
 <h1 align="center">Ashutosh Bhardwaj</h1>
 
 <p align="center">
-  DevOps &amp; Cloud Engineer · Building reliable, secure, always-on infrastructure
+  DevOps &amp; Cloud Engineer · Reliable, secure, always-on infrastructure — battle-tested in fintech
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping production systems available, secure, and resilient.** I design infrastructure as code, automate delivery from commit to production, and build systems that recover on their own when things go wrong.
+I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping production systems available, secure, and resilient.** I design infrastructure as code, automate delivery from commit to production, and build systems that recover on their own when things go wrong — currently keeping regulated financial systems audit-ready and online at **[Credeau Solutions](https://www.credeau.com/)**.
 
 - Cloud-native architecture on **AWS** (primary) and **GCP**
 - Everything provisioned and versioned in **Terraform**
