@@ -1,193 +1,98 @@
-<div align="center">
+<h1 align="center">Ashutosh Bhardwaj</h1>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ███████╗██╗███╗   ██╗███████╗██████╗  █████╗ ███████╗███╗   ███╗║
-║  ██╔════╝██║████╗  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝████╗ ████║║
-║  █████╗  ██║██╔██╗ ██║█████╗  ██████╔╝███████║███████╗██╔████╔██║║
-║  ██╔══╝  ██║██║╚██╗██║██╔══╝  ██╔══██╗██╔══██║╚════██║██║╚██╔╝██║║
-║  ██║     ██║██║ ╚████║██║     ██║  ██║██║  ██║███████║██║ ╚═╝ ██║║
-║  ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  DevOps &amp; Cloud Engineer · Building reliable infrastructure for regulated fintech
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Building+Resilient+Fintech+Infrastructure;Terraform+%7C+AWS+%7C+GCP+%7C+Kubernetes;Uptime+Is+Not+Optional" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.credeau.com/"><img src="https://img.shields.io/badge/Credeau%20Solutions-1F2937?style=flat-square&labelColor=1F2937" alt="Credeau Solutions" /></a>
+  <a href="https://www.linkedin.com/in/infrasmith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Noida,%20India-374151?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
+---
+
+### About
+
+I'm a DevOps &amp; Cloud Engineer at **[Credeau Solutions](https://www.credeau.com/)**, a compliance-first fintech building **CredForge** — an AI-native lending platform for banks and NBFCs.
+
+My work centers on a single outcome: **keeping regulated lending workloads available, secure, and audit-ready.** I design infrastructure as code, automate delivery end to end, and operate systems that recover on their own when things go wrong.
+
+- Cloud-native architecture on **AWS** (primary) and **GCP**
+- Everything provisioned and versioned in **Terraform**
+- CI/CD, observability, and incident response built in from day one
+- Security and compliance treated as requirements, not afterthoughts
+
+---
+
+### Core Focus
+
+| Area | What it means in practice |
+| --- | --- |
+| **Infrastructure as Code** | VPCs, clusters, databases, and IAM defined in Terraform — reviewed, versioned, reproducible |
+| **High Availability** | Multi-AZ design, automated failover, and meaningful SLOs for lending-critical services |
+| **CI/CD** | GitOps pipelines with automated testing, progressive delivery, and fast rollback |
+| **Observability** | Metrics, logs, traces, and alerting that surface problems before customers do |
+| **Security &amp; Compliance** | Least-privilege access, encryption in transit and at rest, network isolation |
+
+---
+
+### Technologies
+
+**Cloud**
 <br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-[![Credeau Solutions](https://img.shields.io/badge/Credeau_Solutions-00D4AA?style=for-the-badge&logo=bank&logoColor=white)](https://www.credeau.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infrasmith)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajashutosh077@gmail.com)
-[![Location](https://img.shields.io/badge/Noida,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,Uttar+Pradesh)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Ashutosh Bhardwaj** — a **DevOps & Cloud Engineer** at [**Credeau Solutions**](https://www.credeau.com/), a compliance-first fintech company building **CredForge** — an AI-native lending OS for banks and NBFCs — where **every second of downtime costs trust, revenue, and regulatory standing**.
-
-I design and operate cloud-native infrastructure that keeps mission-critical lending workloads **always on** — from decision engines and bureau integrations to on-premise deployments and regulated data pipelines. My philosophy is simple:
-
-> *In fintech, availability isn't a nice-to-have. It's the product.*
-
-```yaml
-name: Ashutosh Bhardwaj
-role: DevOps & Cloud Engineer
-company: Credeau Solutions
-product: CredForge · AI-Native Lending OS
-industry: Fintech · B2B Lending for Banks & NBFCs
-location: Noida, Uttar Pradesh, India
-focus:
-  - High-availability & zero-downtime deployments
-  - Infrastructure as Code (Terraform)
-  - Multi-cloud architecture (AWS primary, GCP)
-  - CI/CD, observability & incident response
-  - Security & compliance for regulated workloads
-```
-
----
-
-## 🏦 Why Uptime Matters in Fintech
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  CREDEAU SOLUTIONS · CREDFORGE PLATFORM                         │
-│                                                                 │
-│  Banks/NBFCs ──► API Gateway ──► Decision Engines ──► Lending DB │
-│                    │              │                             │
-│                    ▼              ▼                             │
-│              Load Balancer   K8s Cluster (EKS/GKE)             │
-│                    │              │                             │
-│                    └──────► Terraform-Managed AWS/GCP ◄───────┘
-│                                                                 │
-│   Target: 99.99% uptime · Sub-second failover · Audit-ready    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-At Credeau Solutions, I ensure lending infrastructure stays resilient under peak load — credit decision bursts, bureau API traffic, and real-time underwriting for enterprise banks. I build systems that **self-heal**, **scale horizontally**, and **recover in seconds**, not hours.
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
-
-### 🔄 CI/CD & Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-### 📊 Observability & Reliability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" />
-</p>
-
-### 🔐 Security & Networking
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-## 🏗️ What I Build at Credeau Solutions
-
-| Area | What I Do |
-|------|-----------|
-| **IaC** | Entire cloud footprint provisioned & versioned with **Terraform** — VPCs, EKS/GKE, RDS, IAM, WAF, and more |
-| **AWS** | Primary cloud — ECS/EKS, Lambda, S3, CloudFront, Route53, Secrets Manager, multi-AZ architectures |
-| **GCP** | Secondary & hybrid workloads — GKE, Cloud Run, BigQuery pipelines, cross-cloud DR strategies |
-| **CI/CD** | GitOps-driven pipelines with automated testing, canary deploys, and rollback in one click |
-| **SRE** | SLOs/SLIs, on-call runbooks, chaos testing, and post-mortems that drive real improvements |
-| **Security** | Least-privilege IAM, encryption at rest & in transit, VPC isolation for PCI-DSS readiness |
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=infrasmith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&rank_icon=percentile" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infrasmith&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=FF6B35&currStreakLabel=00D4AA" height="165" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=infrasmith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4AA&line=FF6B35&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
-
-</div>
-
----
-
-## 💡 DevOps Principles I Live By
-
-```
-  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-  │  Automate    │───►│   Observe    │───►│   Improve    │
-  │  Everything  │    │   Everything │    │   Everything │
-  └──────────────┘    └──────────────┘    └──────────────┘
-         │                    │                    │
-         ▼                    ▼                    ▼
-   Terraform + CI/CD    Metrics · Logs ·      Blameless
-   No manual changes    Traces · Alerts       Post-mortems
-```
-
-- **Infrastructure as Code** — If it's not in Terraform, it doesn't exist
-- **Immutable infrastructure** — Replace, don't patch
-- **Shift-left security** — Scan early, deploy confidently
-- **Blameless culture** — Systems fail; we fix systems, not people
-- **Measure what matters** — Uptime, latency p99, error budgets
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/infrasmith/infrasmith/gh-pages/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing **cloud architecture**, **Terraform patterns**, **fintech infra challenges**, or **DevOps best practices**.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-infrasmith-181717?style=for-the-badge&logo=github)](https://github.com/infrasmith)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajashutosh077@gmail.com)
-
+**Infrastructure &amp; Orchestration**
 <br/>
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
 
-*"Ship fast. Break nothing. Sleep well."* 🚀
+**CI/CD**
+<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=infrasmith&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile views" />
+**Observability**
+<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
-</div>
+**Languages &amp; Data**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### How I Work
+
+- **If it isn't in code, it doesn't exist.** Infrastructure is declarative and reviewed like application code.
+- **Automate the repeatable.** Manual steps are a liability; pipelines and runbooks replace them.
+- **Measure what matters.** Availability, latency, and error budgets drive decisions.
+- **Blameless by default.** Incidents improve systems, not assign fault.
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=infrasmith&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280&bg_color=FFFFFF" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infrasmith&layout=compact&hide_border=true&title_color=2563EB&text_color=6B7280&bg_color=FFFFFF" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Reliable systems are built deliberately — automated, observed, and continuously improved.</i>
+</p>
