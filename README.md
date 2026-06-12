@@ -1,7 +1,7 @@
 <h1 align="center">Ashutosh Bhardwaj</h1>
 
 <p align="center">
-  DevOps &amp; Cloud Engineer · Building reliable infrastructure for regulated fintech
+  DevOps &amp; Cloud Engineer · Building reliable, secure, always-on infrastructure
 </p>
 
 <p align="center">
@@ -15,14 +15,12 @@
 
 ### About
 
-I'm a DevOps &amp; Cloud Engineer at **[Credeau Solutions](https://www.credeau.com/)**, a compliance-first fintech building **CredForge** — an AI-native lending platform for banks and NBFCs.
-
-My work centers on a single outcome: **keeping regulated lending workloads available, secure, and audit-ready.** I design infrastructure as code, automate delivery end to end, and operate systems that recover on their own when things go wrong.
+I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping production systems available, secure, and resilient.** I design infrastructure as code, automate delivery from commit to production, and build systems that recover on their own when things go wrong.
 
 - Cloud-native architecture on **AWS** (primary) and **GCP**
 - Everything provisioned and versioned in **Terraform**
 - CI/CD, observability, and incident response built in from day one
-- Security and compliance treated as requirements, not afterthoughts
+- Uptime, security, and scalability treated as requirements, not afterthoughts
 
 ---
 
@@ -31,10 +29,10 @@ My work centers on a single outcome: **keeping regulated lending workloads avail
 | Area | What it means in practice |
 | --- | --- |
 | **Infrastructure as Code** | VPCs, clusters, databases, and IAM defined in Terraform — reviewed, versioned, reproducible |
-| **High Availability** | Multi-AZ design, automated failover, and meaningful SLOs for lending-critical services |
+| **High Availability** | Multi-AZ design, automated failover, and meaningful SLOs for production-critical services |
 | **CI/CD** | GitOps pipelines with automated testing, progressive delivery, and fast rollback |
-| **Observability** | Metrics, logs, traces, and alerting that surface problems before customers do |
-| **Security &amp; Compliance** | Least-privilege access, encryption in transit and at rest, network isolation |
+| **Observability** | Metrics, logs, traces, and alerting that surface problems before users do |
+| **Security** | Least-privilege access, encryption in transit and at rest, network isolation |
 
 ---
 
@@ -81,15 +79,6 @@ My work centers on a single outcome: **keeping regulated lending workloads avail
 - **Automate the repeatable.** Manual steps are a liability; pipelines and runbooks replace them.
 - **Measure what matters.** Availability, latency, and error budgets drive decisions.
 - **Blameless by default.** Incidents improve systems, not assign fault.
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=infrasmith&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=6B7280&bg_color=FFFFFF" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infrasmith&layout=compact&hide_border=true&title_color=2563EB&text_color=6B7280&bg_color=FFFFFF" alt="Top languages" />
-</p>
 
 ---
 
