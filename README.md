@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.credeau.com/"><img src="https://img.shields.io/badge/Credeau%20Solutions-1F2937?style=flat-square&labelColor=1F2937" alt="Credeau Solutions" /></a>
-  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Noida,%20India-374151?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://www.credeau.com/"><img src="https://img.shields.io/badge/Credeau%20Solutions-1F2937?style=flat-square&logo=civicrm&logoColor=00D4AA" alt="Credeau Solutions" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Noida,%20India-1F2937?style=flat-square&logo=googlemaps&logoColor=34A853" alt="Location" />
 </p>
 
 ---
@@ -38,38 +38,14 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ### Technologies
 
-**Cloud**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Infrastructure &amp; Orchestration**
-<br/>
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
-
-**CI/CD**
-<br/>
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-**Observability**
-<br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
-**Languages &amp; Data**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+| | |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4) |
+| **IaC &amp; Orchestration** | ![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=flat-square&logo=terraform&logoColor=7B42BC) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED) ![Helm](https://img.shields.io/badge/Helm-1F2937?style=flat-square&logo=helm&logoColor=0F1689) ![Ansible](https://img.shields.io/badge/Ansible-1F2937?style=flat-square&logo=ansible&logoColor=EE0000) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1F2937?style=flat-square&logo=githubactions&logoColor=2088FF) ![Jenkins](https://img.shields.io/badge/Jenkins-1F2937?style=flat-square&logo=jenkins&logoColor=F0F0F0) ![Argo CD](https://img.shields.io/badge/Argo%20CD-1F2937?style=flat-square&logo=argo&logoColor=EF7B4D) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-1F2937?style=flat-square&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-1F2937?style=flat-square&logo=grafana&logoColor=F46800) ![Datadog](https://img.shields.io/badge/Datadog-1F2937?style=flat-square&logo=datadog&logoColor=632CA6) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB) ![Go](https://img.shields.io/badge/Go-1F2937?style=flat-square&logo=go&logoColor=00ADD8) ![Bash](https://img.shields.io/badge/Bash-1F2937?style=flat-square&logo=gnubash&logoColor=4EAA25) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1) ![Redis](https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=DC382D) |
 
 ---
 
@@ -99,9 +75,9 @@ I treat availability as a design constraint, not a hope. When I architect a syst
 I'm always open to conversations about **high availability**, **zero-downtime delivery**, and **infrastructure that scales predictably**. Whether it's a problem to solve or ideas to exchange, reach out.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-374151?style=flat-square&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-1F2937?style=flat-square&logo=whatsapp&logoColor=25D366" alt="Phone" /></a>
 </p>
 
 <p align="center">
