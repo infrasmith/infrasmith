@@ -15,6 +15,7 @@
 
 <br/>
 
+[![Credeau Solutions](https://img.shields.io/badge/Credeau_Solutions-00D4AA?style=for-the-badge&logo=bank&logoColor=white)](https://www.credeau.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/infrasmith)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajashutosh077@gmail.com)
 [![Location](https://img.shields.io/badge/Noida,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,Uttar+Pradesh)
@@ -25,17 +26,18 @@
 
 ## 👋 About Me
 
-I'm **Ashutosh Bhardwaj** — a **DevOps & Cloud Engineer** at [**LendingStack**](https://github.com/infrasmith), a lending solutions and fintech platform where **every second of downtime costs trust, revenue, and compliance**.
+I'm **Ashutosh Bhardwaj** — a **DevOps & Cloud Engineer** at [**Credeau Solutions**](https://www.credeau.com/), a compliance-first fintech company building **CredForge** — an AI-native lending OS for banks and NBFCs — where **every second of downtime costs trust, revenue, and regulatory standing**.
 
-I design and operate cloud-native infrastructure that keeps mission-critical financial services **always on** — from loan origination pipelines to payment gateways and regulatory workloads. My philosophy is simple:
+I design and operate cloud-native infrastructure that keeps mission-critical lending workloads **always on** — from decision engines and bureau integrations to on-premise deployments and regulated data pipelines. My philosophy is simple:
 
 > *In fintech, availability isn't a nice-to-have. It's the product.*
 
 ```yaml
 name: Ashutosh Bhardwaj
 role: DevOps & Cloud Engineer
-company: LendingStack
-industry: Fintech · Lending Solutions
+company: Credeau Solutions
+product: CredForge · AI-Native Lending OS
+industry: Fintech · B2B Lending for Banks & NBFCs
 location: Noida, Uttar Pradesh, India
 focus:
   - High-availability & zero-downtime deployments
@@ -51,9 +53,9 @@ focus:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  LENDINGSTACK PLATFORM                                          │
+│  CREDEAU SOLUTIONS · CREDFORGE PLATFORM                         │
 │                                                                 │
-│   Users ──► API Gateway ──► Microservices ──► Core Banking DB  │
+│  Banks/NBFCs ──► API Gateway ──► Decision Engines ──► Lending DB │
 │                    │              │                             │
 │                    ▼              ▼                             │
 │              Load Balancer   K8s Cluster (EKS/GKE)             │
@@ -64,7 +66,7 @@ focus:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-At LendingStack, I ensure lending platforms stay resilient under peak load — disbursement surges, EMI cycles, and real-time credit decisions. I build systems that **self-heal**, **scale horizontally**, and **recover in seconds**, not hours.
+At Credeau Solutions, I ensure lending infrastructure stays resilient under peak load — credit decision bursts, bureau API traffic, and real-time underwriting for enterprise banks. I build systems that **self-heal**, **scale horizontally**, and **recover in seconds**, not hours.
 
 ---
 
@@ -114,7 +116,7 @@ At LendingStack, I ensure lending platforms stay resilient under peak load — d
 
 ---
 
-## 🏗️ What I Build at LendingStack
+## 🏗️ What I Build at Credeau Solutions
 
 | Area | What I Do |
 |------|-----------|
