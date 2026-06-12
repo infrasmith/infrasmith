@@ -24,15 +24,14 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ---
 
-### Core Focus
+### What I Do
 
-| Area | What it means in practice |
-| --- | --- |
-| **Infrastructure as Code** | VPCs, clusters, databases, and IAM defined in Terraform — reviewed, versioned, reproducible |
-| **High Availability** | Multi-AZ design, automated failover, and meaningful SLOs for production-critical services |
-| **CI/CD** | GitOps pipelines with automated testing, progressive delivery, and fast rollback |
-| **Observability** | Metrics, logs, traces, and alerting that surface problems before users do |
-| **Security** | Least-privilege access, encryption in transit and at rest, network isolation |
+- **Infrastructure as Code** — provision entire environments in Terraform; reviewed, versioned, and reproducible
+- **High Availability** — multi-region, multi-AZ design with automated failover and SLO-driven reliability
+- **CI/CD & GitOps** — automated testing, progressive delivery, and one-click rollback as the default
+- **Observability** — metrics, logs, traces, and alerting that catch issues before users ever notice
+- **Automation & Toil Reduction** — replace manual ops with pipelines, runbooks, and self-healing systems
+- **Security & Compliance** — least-privilege IAM, encryption everywhere, and network isolation by design
 
 ---
 
