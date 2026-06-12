@@ -82,23 +82,27 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ---
 
-### Let's Talk Uptime
+### Reliability, by the Numbers
 
-```
-  99.9%  ──►  43m 49s downtime / month
-  99.99% ──►   4m 23s downtime / month   ◄── this is where I like to live
-  99.999%──►      26s downtime / month
-```
+Every nine matters. The difference between "good" and "great" availability is measured in minutes the business never notices.
 
-If you care about **high availability**, **zero-downtime deployments**, or **infrastructure that scales without surprises**, let's connect. Always happy to trade notes on reliability, Terraform, and cloud architecture.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-</p>
+| Availability | Downtime / month | Downtime / year |
+| :--- | :--- | :--- |
+| 99.9% | 43m 49s | 8h 45m |
+| 99.99% | 4m 23s | 52m 36s |
+| 99.999% | 26s | 5m 15s |
 
 ---
+
+### Let's Connect
+
+I'm always open to conversations about **high availability**, **zero-downtime delivery**, and **infrastructure that scales predictably**. Whether it's a problem to solve or ideas to exchange, reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/Phone-374151?style=flat-square&logo=phone&logoColor=white" alt="Phone" /></a>
+</p>
 
 <p align="center">
   <i>Reliable systems are built deliberately — automated, observed, and continuously improved.</i>
