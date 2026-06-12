@@ -82,6 +82,24 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ---
 
+### Let's Talk Uptime
+
+```
+  99.9%  ──►  43m 49s downtime / month
+  99.99% ──►   4m 23s downtime / month   ◄── this is where I like to live
+  99.999%──►      26s downtime / month
+```
+
+If you care about **high availability**, **zero-downtime deployments**, or **infrastructure that scales without surprises**, let's connect. Always happy to trade notes on reliability, Terraform, and cloud architecture.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+</p>
+
+---
+
 <p align="center">
   <i>Reliable systems are built deliberately — automated, observed, and continuously improved.</i>
 </p>
