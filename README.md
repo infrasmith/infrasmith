@@ -82,15 +82,15 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ---
 
-### Reliability, by the Numbers
+### The Standard I Build To
 
-Every nine matters. The difference between "good" and "great" availability is measured in minutes the business never notices.
+I treat availability as a design constraint, not a hope. When I architect a system, I pick a reliability target up front and engineer the redundancy, automation, and observability needed to hold it — because to me, every "nine" is a promise to the people depending on the platform.
 
-| Availability | Downtime / month | Downtime / year |
+| My target | Downtime budget / month | Downtime budget / year |
 | :--- | :--- | :--- |
-| 99.9% | 43m 49s | 8h 45m |
-| 99.99% | 4m 23s | 52m 36s |
-| 99.999% | 26s | 5m 15s |
+| 99.9% — baseline I won't drop below | 43m 49s | 8h 45m |
+| 99.99% — where I aim for production | 4m 23s | 52m 36s |
+| 99.999% — for the critical path | 26s | 5m 15s |
 
 ---
 
