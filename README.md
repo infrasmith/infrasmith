@@ -59,7 +59,7 @@ I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping pr
 
 ### The Standard I Build To
 
-I treat availability as a design constraint, not a hope. When I architect a system, I pick a reliability target up front and engineer the redundancy, automation, and observability needed to hold it — because to me, every "nine" is a promise to the people depending on the platform.
+I treat availability as a design constraint, not a hope. When I architect a system, I pick a reliability target up front and engineer the redundancy, automation, and observability needed to hold it — because in fintech, every "nine" is a promise: to the customer mid-transaction, and to the regulators watching.
 
 | My target | Downtime budget / month | Downtime budget / year |
 | :--- | :--- | :--- |
