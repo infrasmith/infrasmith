@@ -13,7 +13,7 @@
 
 ---
 
-### About
+### About Me
 
 I'm a DevOps &amp; Cloud Engineer focused on one outcome above all: **keeping production systems available, secure, and resilient.** I design infrastructure as code, automate delivery from commit to production, and build systems that recover on their own when things go wrong.
 
