@@ -100,8 +100,8 @@ I'm always open to conversations about **high availability**, **zero-downtime de
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/Phone-374151?style=flat-square&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/bhardwajashutosh077@gmail.com-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+919258084846"><img src="https://img.shields.io/badge/+91%2092580%2084846-374151?style=flat-square&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
 <p align="center">
