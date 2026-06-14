@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://ashutosh-bhardwaj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
-  <a href="https://www.credeau.com/"><img src="https://img.shields.io/badge/Credeau%20Solutions-1F2937?style=flat-square&logo=civicrm&logoColor=00D4AA" alt="Credeau Solutions" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-bhardwaj-8698991b7/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:bhardwajashutosh077@gmail.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Noida,%20India-1F2937?style=flat-square&logo=googlemaps&logoColor=34A853" alt="Location" />
